@@ -18,7 +18,7 @@
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-android: 'Android', cursive;
+    --fonte-android: 'Android', 'Bebas Neue', Arial;
 }
 
 * {
@@ -179,6 +179,7 @@ aside > h3 {
     padding: 5px;
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
+    text-indent: 20px;
 }
 
 aside > ul {
